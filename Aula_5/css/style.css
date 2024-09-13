@@ -1,0 +1,25 @@
+.logo-mulheres-tech{
+    /*altura*/
+    height: 30rem;
+    /*largura*/
+    width: 30rem;
+    /*cor de fundo*/
+   
+    background-color: rgb(234, 105, 182);
+    /* borda da imagem */
+    border: 5px solid rgb(57, 9, 34);
+    /* Cantos arredondados com 10 pixels de raio */
+    border-radius: 10px; 
+    /* Sombra com deslocamento de 5px e difusão de 10px */
+    box-shadow: 5px 5px 10px rgba(210, 53, 53, 0.5);
+    /*centralizar texto horizontalmente*/
+    text-align: center;
+    /*centralizar texto verticalmente*/
+    line-height: 30rem;
+    /*cor do texto*/
+    color: rgb(85, 181, 253); 
+    /*familia da fonte*/
+    font-family: Arial, Helvetica, sans-serif;
+    /*centralizar quadrado na horizontal*/
+    margin: auto;   
+}
